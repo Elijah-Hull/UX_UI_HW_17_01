@@ -1,0 +1,35 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+    color: #59dbb8;
+}
+.logo {
+    width: 23%;
+    padding: 1%;
+    text-align: top;
+}
+nav {
+    width: 82%;
+    padding: 1%;
+}
+ul {
+    width: 50%;
+    margin-left: auto;
+}
+.heroimg {
+    height: 500px;
+    padding: 25px;
+    background-color: #d6dfdf;
+    margin-right: 200px;
+    text-align: center;
+}
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+header,footer {
+   background-color: #453434; 
+}
+h1 {
+font-family: 'Courier New', Courier, monospace;
+}
